@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "hahaha",
+      "umur": 11,
+      "telp": 231365456,
+      "alamat": "sdnakldsanldsano"
+    },
+    {
+      "name": "wqeqew",
+      "umur": "21",
+      "telp": "331313132212",
+      "alamat": "dsadasaddas",
+      "id": 2
+    },
+    {
+      "name": "qeqwewq",
+      "umur": "22",
+      "telp": "111111",
+      "alamat": "sdadadsdasasd",
+      "id": 3
+    },
+    {
+      "name": "saaa",
+      "umur": "11",
+      "telp": "32131212213",
+      "alamat": "dsasadadsads",
+      "id": 4
+    },
+    {
+      "name": "sdadasda",
+      "umur": "111",
+      "telp": "2312",
+      "alamat": "asdadsasd",
+      "id": 5
+    },
+    {
+      "name": "asdasdsa",
+      "umur": "22",
+      "telp": "231321221",
+      "alamat": "sadasadsdas",
+      "id": 6
+    }
+  ]
+}
